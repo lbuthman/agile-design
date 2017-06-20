@@ -1,1 +1,23 @@
+- Proximity principal -> Items grouped together seem to have stronger relationships than items further apart; good
+for logical organization
 
+- Visibility -> bring visual focus (typeface, opacity, prominence, status, color/contrast)
+
+- Visual Hierarchy -> try affinity diagramming with post-it notes to physically identify like groups and logical
+organization used for visual layout
+
+- Mental Models -> be aware (and don't assume) the user's mental model, that will impact the user's expectations
+with the system
+
+- Progressive discoler -> hiding options and functionality in menus so as not to overwhelm users. Items can be greyed
+out when not applicable, thus reducing noise.
+
+- Implement common functionality in accordance to what a user expects, only change if it is self-evidently better
+
+- Affordance and constraints -> "Make it easy to do the right thing and difficult to do the wrong thing."
+
+- Anticipate undesired actions with confirmation requirements. What strikes me about this is the misuse by web
+designers hoping to increase subscription. They require confirmation about what they want, not what the user (reader)
+wants. This clarifies my problems with these sites.
+
+- Fitt's Law -> The distance users have to travel from an object should dictate the size of the object they are moving to.
