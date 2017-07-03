@@ -1,1 +1,18 @@
+- Ingredients for testing / survey scripts
+  1) Introduction
+  2) Reassurance (testing the app, not them)
+  3) Testing Guidelines
+  4) Tasks (quantifiable, but I would add qualitative topics as well)
+  5) Conclusion (can be fun to share what we have learned with them)
+  6) Thanks!
+  
+- Encourage participants to think out loud, instead of internally focusing on the task. It may feel silly, but it
+is important. ("Imagine that your experience and task is the most important thing in the entire world, to you and
+everyone else in it! Because of that, the entire world is hanging on each word and paying attentio to your every
+utterance and experience. They will be so sad if they miss even a single thing.
 
+- Be careful of turning usability studies into training sessions. The user needs to do the task themselves so that
+we can get an honest assessment.
+
+- Short questionaires are good ways to transition between tasks, providing time for us to take notes without making
+them sit in silence and get distracted or restless.
